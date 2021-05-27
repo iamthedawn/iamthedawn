@@ -12,7 +12,7 @@
 <a href="https://twitter.com/nishhant__" target="blank" ><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/nishant-mourya-217953190" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" height="30" width="30"/></a>
 <a href="https://instagram.com/nishhant" target="blank"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/imthedawn" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCodeChef&psig=AOvVaw1WObe919WhrpcLMt6ZAF9E&ust=1622231775245000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC-ybfS6vACFQAAAAAdAAAAABAD" alt="imthedawn" height="30" width="30" /></a>
+<a href="https://www.facebook.com/its.nishant.maurya" target="blank"><img src="https://img.icons8.com/doodle/50/000000/facebook-new.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
