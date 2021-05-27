@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Nishant Mourya</h1>
 <h3 align="center">A passionate Engineer</h3>
 
@@ -8,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishhant__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nishhant__" height="30" width="40" /></a>
+<a href="https://twitter.com/nishhant__" target="blank" class="fa fa-twitter wow fadeInUp"></a>
 <a href="https://linkedin.com/in/nishant-mourya-217953190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nishant-mourya-217953190" height="30" width="40" /></a>
 <a href="https://instagram.com/nishhant__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="nishhant__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imthedawn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imthedawn" height="30" width="40" /></a>
