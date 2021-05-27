@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishant-mourya-217953190" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" height="30" width="30"/></a>
-<a href="https://twitter.com/nishhant__" target="blank" ><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" height="30" width="30" /></a>
-<a href="https://instagram.com/nishhant" target="blank"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" height="30" width="30" /></a>
-<a href="https://www.facebook.com/its.nishant.maurya" target="blank"><img src="https://img.icons8.com/doodle/50/000000/facebook-new.png" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nishant-mourya-217953190" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" height="30" width="30"/></a>
+<a href="https://twitter.com/nishhant__" target="_blank" ><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" height="30" width="30" /></a>
+<a href="https://instagram.com/nishhant" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" height="30" width="30" /></a>
+<a href="https://www.facebook.com/its.nishant.maurya" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/facebook-new.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
