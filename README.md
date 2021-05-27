@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nishant Mourya</h1>
 <h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an enthusiastic engineer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthedawn&label=Profile%20views&color=0e75b6&style=flat" alt="iamthedawn" /> </p>
-
 - 📫 How to reach me **imthedawn@yahoo.in**
 - 😄 Pronouns: He/dawn
 
@@ -21,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthedawn&show_icons=true&locale=en&layout=compact" alt="iamthedawn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamthedawn&" alt="iamthedawn" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthedawn&label=Profile%20views&color=0e75b6&style=flat" alt="iamthedawn" /> </p>
