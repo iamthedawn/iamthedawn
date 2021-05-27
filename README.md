@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="30px">, I'm Nishant Mourya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nishant Mourya</h1>
 <h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an enthusiastic engineer!!</h3>
 <br>
-<img src="https://tenor.com/brXT6.gif" width="300px" align="right">
+<img src=https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
 
 - 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a>
 - 📫 How to reach me **imthedawn@yahoo.in**
