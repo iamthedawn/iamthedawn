@@ -22,10 +22,10 @@
 
 ## Github Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=iamthedawn&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" align="left" >
+<pre> <img src="https://github-readme-stats.vercel.app/api?username=iamthedawn&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" align="left" >
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthedawn&layout=compact&theme=vision-friendly-dark" width="350" height="250" align="right">
-</p>
+</pre>
 
 <div align="center">
 
