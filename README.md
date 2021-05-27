@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="css/font-awesome.min.css">
-<h1 align="center">Hi 👋, I'm Nishant Mourya</h1>
-<h3 align="center">A passionate Engineer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nishant Mourya</h1>
+<h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an enthusiastic engineer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthedawn&label=Profile%20views&color=0e75b6&style=flat" alt="iamthedawn" /> </p>
 
