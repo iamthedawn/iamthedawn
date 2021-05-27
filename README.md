@@ -24,7 +24,7 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=iamthedawn&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" align="left" >
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthedawn&layout=compact&theme=vision-friendly-dark" width="250" height="250" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthedawn&layout=compact&theme=vision-friendly-dark" width="300" height="250" align="right">
 </p>
 
 <div align="center">
