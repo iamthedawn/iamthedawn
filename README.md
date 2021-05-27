@@ -3,11 +3,15 @@
 <br>
 <img src=https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
 
+                                                                                                        
+                                                                                                        
+<br>
+                                                                                                      
 - 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a>
 - 📫 How to reach me **imthedawn@yahoo.in**
 - 😄 Pronouns: He/dawn
 - ✍️ Loves to write Codes and Poems
-
+ </pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
