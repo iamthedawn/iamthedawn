@@ -1,8 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nishant Mourya</h1>
 <h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an enthusiastic engineer!!</h3>
+<br>
+<img src="https://tenor.com/brXT6.gif" width="300px" align="right">
 
+- 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a>
 - 📫 How to reach me **imthedawn@yahoo.in**
 - 😄 Pronouns: He/dawn
+- ✍️ Loves to write Codes and Poems
 
 
 <h3 align="left">Connect with me:</h3>
