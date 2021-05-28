@@ -8,7 +8,7 @@
 <br>
                                                                                                       
 - 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a>
-- 📫 How to reach me **imthedawn@yahoo.in**
+- 📫 How to reach me **nishhantm@gmail.com**
 - 😄 Pronouns: He/dawn
 - ✍️ Loves to write Codes and Poems
  </pre>
