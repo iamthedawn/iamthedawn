@@ -5,8 +5,7 @@
 
                                                                                                         
                                                                                                         
-<br>
-                                                                                                      
+## About me 🙋🏻‍♂️                                                                                            
 - 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a>
 - 📫 How to reach me **nishhantm@gmail.com**
 - 😄 Pronouns: He/dawn
