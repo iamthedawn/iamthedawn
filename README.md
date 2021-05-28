@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamthedawn&theme=vision-friendly-dark" alt="iamthedawn" /></p>
 
 <!--profile visits-->                                                                                                                                          
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=iamthedawn&label=Profile%20views&color=0e75b6&style=flat" alt="iamthedawn"  /> 
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=iamthedawn&label=Profile%20views&color=grey&style=plastic&label=PROFILE+VIEWS" alt="iamthedawn"  /> 
 </p>
 <p align="left">
 <h4><i><b>Thanks for Visiting 🥂</b></i></h4>
