@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nishant Mourya</h1>
-<h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an enthusiastic engineer!!</h3>
+<h3 align="center">A 👨🏻‍💻 Coder, 🔗 Developer and an Enthusiastic Engineer!!</h3>
 <br>
 
 
