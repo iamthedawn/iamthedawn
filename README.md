@@ -9,7 +9,7 @@
 <img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
 <ul>
 <li> 📚 Pursuing B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a> </li>
-<li> 📫 How to reach me **nishhantm@gmail.com** </li>
+<li> 📫 How to reach me <a href="mailto:nishhantm@gmail.com">nishhantm@gmail.com</a></li>
 <li> 😄 Pronouns: He/dawn </li>
 <li> ✍️ Loves to write Codes and Poems </li>
 </ul>
