@@ -47,7 +47,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank"> <img src="https://github.com/iamthedawn/content/blob/main/icons8-jquery-50.png?raw=true" alt="jQuery" width="40" height="40"/> </a>
 <!--SQL-->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> </p>
-
+<!-- LATEX -->
+<a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"> <img src="https://img.icons8.com/color/48/000000/latex.png" alt="latex" width="45" height="45"/> </a> </p>
 ## Github Stats
 <!--Stats-->
 <p> <img src="https://github-readme-stats.vercel.app/api?username=iamthedawn&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" align="left" >
