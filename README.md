@@ -37,6 +37,10 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!--CSS-->
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--Tailwind CSS-->
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
 <!--BOOTSTRAP-->                
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <!--MUI-->
@@ -76,6 +80,7 @@
 <a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank"> 
   <img src="https://img.icons8.com/color/48/000000/latex.png" alt="latex" width="45" height="45"/> 
 </a> 
+  
 <!-- NODEJS
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" xwidth="40" height="40"/> </a> 
  --></p>
