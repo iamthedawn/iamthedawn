@@ -10,7 +10,7 @@
 <ul>
 <li> 📚 B.Tech in Electronics and Communication Engineering from <a href="https://iiitkota.ac.in" target="blank">IIIT Kota</a> </li>
 <li> 📫 How to reach me <a href="mailto:nishhantm@gmail.com">nishhantm@gmail.com</a></li>
-<li> 😄 Pronouns: He/dawn </li>
+<li> 😄 Pronouns: he/him/dawn </li>
 <li> ✍️ Loves to write Codes and Poems </li>
 </ul>
 
